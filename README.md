@@ -19,7 +19,6 @@ Here's an example of how to use the pandaproof class:
 import pandas as pd
 from pandaproof import DataQualityChecker
 
-# Sample DataFrame for testing
 data = pd.DataFrame({
     'Name': ['Alice', 'Bob', 'Charlie'],
     'Age': [25, 30, 22],
@@ -39,7 +38,6 @@ checker = DataQualityChecker(data)
 # Check if the sample data matches the specified schema
 issues = checker.check_data_schema(test_schema)
 
-# Print issues (if any)
 if issues:
     for issue in issues:
         print(issue)
