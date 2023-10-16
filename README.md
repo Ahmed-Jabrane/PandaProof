@@ -64,6 +64,5 @@ Contributions, bug reports, and feature requests are welcome! Please open an iss
 This package is licensed under the MIT License. See the LICENSE file for details.
 
 Happy data quality checking!
-```
 
-Remember to replace `"yourusername"` in the GitHub repository link with the actual username or organization name where you plan to host the package. Save this content as `README.md` in your package directory, and it will serve as the documentation for your package.
+
