@@ -47,13 +47,13 @@ else:
 
 ## Features
 
-- Schema validation: Check if a DataFrame matches a specified schema.
-- Data type validation: Ensure that columns have the expected data types.
-- Required fields: Detect missing values in required columns.
-- Unique key validation: Check if specified columns form a unique key.
-- Custom validation functions: Allow for custom column-level validation.
-- Value range validation: Validate values within specified ranges.
-- Data format checks: Validate data format using regular expressions.
+- **Schema validation**: Check if a DataFrame matches a specified schema.
+- **Data type validation**: Ensure that columns have the expected data types.
+- **Required fields**: Detect missing values in required columns.
+- **Unique key validation**: Check if specified columns form a unique key.
+- **Custom validation functions**: Allow for custom column-level validation.
+- **Value range validation**: Validate values within specified ranges.
+- **Data format checks**: Validate data format using regular expressions.
 
 ## Contributing
 
