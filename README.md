@@ -47,15 +47,15 @@ else:
 
 ## Features
 
-| Feature                        | Status             |
-| -------------------------------| -------------------|
-| Schema Validation              | Implemented        |
-| Data Type Validation           | Implemented        |
-| Required Fields                | Implemented        |
-| Unique Key Validation          | Implemented        |
-| Custom Validation Functions    | Not Implemented    |
-| Value Range Validation         | Not Implemented    |
-| Data Format Checks             | Not Implemented    |
+| Status          | Feature                        | Description                                         | Use Case                                                         |
+| ----------------| -------------------------------| ---------------------------------------------------|------------------------------------------------------------------|
+| ✅               | Schema Validation              | Check if DataFrame matches an expected schema.     | Ensuring data conforms to a predefined structure.               |
+| ✅               | Data Type Validation           | Ensure columns have expected data types.           | Verifying data consistency and correctness.                     |
+| ✅               | Required Fields                | Detect missing values in required columns.        | Ensuring essential data is not missing.                         |
+| ✅               | Unique Key Validation          | Check if specified columns form a unique key.      | Maintaining data integrity with unique identifiers.             |
+| ⌛               | Custom Validation Functions    | Custom checks on data within columns.             | Implementing domain-specific data validation.                   |
+| ⌛               | Value Range Validation         | Validate values within specified ranges.          | Enforcing data constraints and limits.                         |
+| ⌛               | Data Format Checks             | Validate data format using regular expressions.   | Ensuring data adheres to specific formats (e.g., dates, emails).|
 
 ## Contributing
 
