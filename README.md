@@ -1,4 +1,4 @@
-![PandaProof](https://shorturl.at/foER2)
+![Logo]([http://shorturl.at/foER2])
 
 # PandaProof
 
