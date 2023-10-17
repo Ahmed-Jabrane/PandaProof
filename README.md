@@ -1,5 +1,4 @@
-![Logo]([http://shorturl.at/foER2])
-
+![alt text](https://www.datascienceportfol.io/static/profile_pics/pr4_56031B9D37622BD11CF8.png)
 # PandaProof
 
 The **PandaProof** is a Python package designed to help you perform data quality checks on Pandas DataFrames. You can use it to validate whether your data adheres to a specified schema, check for missing values, ensure correct data types, and more.
