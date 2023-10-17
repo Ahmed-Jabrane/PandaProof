@@ -1,4 +1,7 @@
 
+![PandaProofLogo]([Image_URL](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F422398b9-3cbc-40c3-a891-d87e4e3c47e1%2Fef3c70ee-b5d0-4cc9-bb83-fbbdb35d256e%2FPandaProof(3).png?table=block&id=fab54c83-c370-4fc5-887b-7aedecdadcb0&spaceId=422398b9-3cbc-40c3-a891-d87e4e3c47e1&width=600&userId=eb3b9560-b21f-42d1-acef-2e5562699529&cache=v2))
+
+
 # PandaProof
 
 The **PandaProof** is a Python package designed to help you perform data quality checks on Pandas DataFrames. You can use it to validate whether your data adheres to a specified schema, check for missing values, ensure correct data types, and more.
