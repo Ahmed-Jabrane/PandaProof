@@ -8,14 +8,17 @@ The **PandaProof** is a Python package designed to help you perform data quality
 To use PandaProof locally, follow these steps:
 
 1. Clone or download the repository to your local machine.
-
-2. Open a terminal or command prompt and navigate to the project's root directory (where you've cloned or downloaded PandaProof).
-
-3. Install the package in editable mode using `pip`:
-
 ```bash
 git clone https://github.com/Ahmed-Jabrane/PandaProof.git
+```
+
+2. Open a terminal or command prompt and navigate to the project's root directory (where you've cloned or downloaded PandaProof).
+```bash
 cd PandaProof
+```
+
+2. Install the package in editable mode using `pip`:
+```bash
 pip install -e .
 ```
 
